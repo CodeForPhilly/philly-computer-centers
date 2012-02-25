@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="info">
+    <BalloonStyle>
+      <text>
+        <![CDATA[
+		  <b>$[Name]</b><br>
+          <b>Address</b> $[Address1], $[Zip]<br>  
+          <b>Contact</b> $[Contact Person], $[Contact Email], $[Contact Phone]<br>
+          <b>Hours</b> $[Hours]<br>
+		  <b>Available software</b>  $[Programs available]<br>
+		  <b>Additional information:</b>  $[Other info]<br>
+        ]]>
+      </text>
+    </BalloonStyle>
+  </Style>
+  
+  
+    <Placemark><styleUrl>#info</styleUrl>
+      <styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            <b>Project H.O.M.E.</b>
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            1936 N Judson St
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19121
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Gina Plata
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Adult Learning and Workforce Development Manager
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            ginaplata@projecthome.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-3235-2900
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Mon-Thurs 3-6pm Fridays 12-3pm
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            Yes
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            walk in. Need to get an open lab card. Cards are available on Thursdays from 12:00 to 2:00 pm
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1726850,39.9846689
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            <b>Free Library Hot Spot at Mercy Neighborhood Ministries</b>
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            1939 W. Venango
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19140
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. . 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            jennifer donsky
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            library coordinator
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            hotspots@freelibrary.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215.686.5372
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Monday to Friday 1:00-5:00pm
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            Yes
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            Users are welcome to walk-in to the Free Library Hot Spots.  No appointments are taken.
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1608290,40.0090080
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Media Mobilizing Project/Philly Student Union
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            4205 Chestnut St.
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19104
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. Animation
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Chris Willis
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Youth Site Center Organizer
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            Chris@mediamobilizing.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-668-5631
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Through the school year, June 17, the center is open M-Th, 3-6PM. The center is open through the summer, M-Th, 11AM-5PM.
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            yes
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            The lab is walk-in, first come, first served. 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.2067962,39.9563649
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Philadelphia Community Access Media (PhillyCAM)
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            232 Vine Street
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19106
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. Animation
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Gretjen Clausing
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            gretjen@phillycam.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            267 639 5481
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            No
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            Folks wanting to use the media lab need to make an appointment by calling and reserving lab time.  A member may come and and work on a computer if one is available.  Recommend reserving time 24 hours in advance.  
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1434074,39.9557155
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Free Library of Philadelphia
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            68 West Chelten Avenue
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19144
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. . 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Susan Guggenheim
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Computer Lab Trainer (CLT)
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            guggenheims@freelibrary.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-284-6038
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+             Tues. 3:30-7:30 pm Weds. 6-7:30 pm Thurs. 12:30-3:30 pm Fri. 12:30-3:30 pm Sat. 10:30-4:30 pm
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            No
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            walk-in, sign up, no library card needed, patrons can stay as long as they like, but when I get a waiting list (happens often), we ask the first in to leave to give others some time.
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1762730,40.0341270
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Free Library of Philadelphia - West Oak Lane Branch
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            2000 W. Washington Lane
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19138
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. . 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Susan Guggenheim
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Computer Lab Trainer (CLT)
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            guggenheims@freelibrary.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-284-6038
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Monday, 12-5 pm Thurs., 4-7:30 pm Fri., 10-12 pm
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            No
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            walk-in
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1582512,40.0669724
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Leadership Network of Philadelphia
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            643 Cobbs Creek Parkway
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19143
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. . 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Chester E. Beckett Jr. 
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Executive Director 
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            Surinity@aol.com
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            610-734-1150  
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Saturdays 10am  - 12noon  
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            Yes
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            First come,first serve / walk-ins / and all participants are given a ( reminder )curtesy call one day  throughout  the next  week or before the next Saturday. 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.2489813,39.9520532
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Logan CDC
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            5201 Old York Road
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19141
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. . 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Carla Robinson
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Assistant Director
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            Carla@LoganCDC.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-302-1604 x104
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Monday/Tuesday/Friday - 10am-5pm Wednesday/Thursday - 10am-4pm
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            Yes
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            Walk-in and first 10 enrolled (for computer classes).
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1447840,40.0322600
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Philadelphia FIGHT
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            1233 Locust St
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19107
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. Animation
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+             
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-985-4448
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Mon 10am - 1pm,          Wed 10am - 1pm,               Fri 10am - 1pm 
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            No
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            Walk in - first come, first served.
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1619536,39.9478957
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Institute for Community Justice
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            21 S. 12th Street
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19107
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. Animation
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+             
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-525-0460
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Mon 1pm - 5pm, Tues 1pm - 5pm, Wed 1pm - 5pm, Fri 2pm - 5pm 
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            No
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            Walk in, first come first served
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1600400,39.9510686
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Youth Health Empowerment Project (Y-HEP)
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            112 N Broad St
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19102
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. Animation
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+             
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-564-6388
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Tues 1pm - 4pm, Wed 3pm - 6pm, Thurs 3pm - 6pm, Fri 1pm - 5pm 
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            No
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            Walk in, first come first served.
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1632552,39.9549846
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            Harmonious Volunteer Center
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            2800 North 29th Street
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+             Philadelphia
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+             PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19132
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser. Microsoft Office.Audio/Video playback. Graphic Design. 
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows XP
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Irvin B. Shannon
+          </value>
+        </Data>
+        <Data name="Title">
+          <value>
+            Executive Director
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            hvcorder@hotmail.com
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            267-595-5278
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+            Monday 10a.m. until 6p.m. Tuesday 10a.m. until 6p.m. Wednesday 10a.m. until 6p.m. Thursday 10a.m. until 6p.m. Friday 10a.m. until 6p.m. Saturday 10a.m. until 6p.m. Sunday 10a.m. until 6p.m.
+          </value>
+        </Data>
+        <Data name="Filtered Internet?">
+          <value>
+            Yes
+          </value>
+        </Data>
+        <Data name="Other info">
+          <value>
+            We have availability for Walk in, First Come first served.  We also accommodate appointments.
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1782539,39.9986607
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark><styleUrl>#info</styleUrl>
+      <ExtendedData>
+        <Data name="Name">
+          <value>
+            SEIU Healthcare PA
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            1706 Race Street
+          </value>
+        </Data>
+        <Data name="Address2">
+          <value>
+            3rd Floor
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+            Philadelphia 
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+            PA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            19103
+          </value>
+        </Data>
+        <Data name="Programs available">
+          <value>
+            Internet Browser, such as Explorer, Firefox, or Chrome, Microsoft Office, including Word, Excel, and Powerpoint, Audio/video playback programs such as Winamp, Windows media player, or Quicktime, Financial Management software such as Quicken or Microsoft Money, Photo editing or graphic design software such as Adobe Photoshop, Video editing or animation programs
+          </value>
+        </Data>
+        <Data name="OS">
+          <value>
+            Windows
+          </value>
+        </Data>
+        <Data name="Contact Person">
+          <value>
+            Renee M-Williams
+          </value>
+        </Data>
+        <Data name="Contact Email">
+          <value>
+            Renee@mediamobilizingproject.org
+          </value>
+        </Data>
+        <Data name="Contact Phone">
+          <value>
+            215-557-9282
+          </value>
+        </Data>
+        <Data name="Hours">
+          <value>
+             
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -75.1679238,39.9568336
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
